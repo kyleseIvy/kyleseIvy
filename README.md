@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 wellcome to my repository. Im currennlty learning java. Fill free drop and words of knowledge. 
 
 <!--
 **kyleseIvy/kyleseIvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
